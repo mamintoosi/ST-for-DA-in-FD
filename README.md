@@ -33,7 +33,7 @@
 <tr><td> <img src="images/day2night/pic (110).jpg" width="600"> </td></tr>
 </table>
 سایر تصاویر  را می‌توانید در 
-<a href="https://github.com/mamintoosi/ST-for-DA-in-FD/images/day2night.html">
+<a href="day2night.html">
 اینجـــــــا
 </a>
  ملاحظه فرمایید.
