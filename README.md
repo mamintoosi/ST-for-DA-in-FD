@@ -9,7 +9,7 @@
 ### اعمال انتقال سبک یک تصویر بر روی تصویر دیگر:
 شکل ۲ مقاله:
 <table  align="center" border="1">
-<tr><td> <img src="images/fox.jpg" width="500"> </td><td> سطر اول: تصویر روباه، به عنوان تصویر محتوا. در سطرهای دوم تا سوم، ستون (الف) نتیجه اعمال 
+<tr><td> <img src="images/fox.jpg" width="500"> </td><td> سطر اول: تصویر روباه، به عنوان تصویر محتوا. در سطرهای بعد، ستون (الف) نتیجه اعمال 
 <a href="https://github.com/sunshineatnoon/LinearStyleTransfer">
 شیوه‌ی انتقال سبک عصبی زیر است
 </a>
@@ -36,6 +36,7 @@
 
 با استفاده از روش انتقال سبک عصبی زیر، ۸۵ تصویر روز به شب تبدیل شدند:
 </div>
+
 ```
 @inproceedings{jiang2020tsit,
   title={{TSIT}: A Simple and Versatile Framework for Image-to-Image Translation},
