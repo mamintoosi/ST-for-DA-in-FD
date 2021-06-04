@@ -11,17 +11,8 @@
 <table  align="center" border="1">
 <tr><td> <img src="images/fox.jpg" width="500"> </td><td> سطر اول: تصویر روباه، به عنوان تصویر محتوا. در سطرهای دوم تا سوم، ستون (الف) نتیجه اعمال 
 <a href="https://github.com/sunshineatnoon/LinearStyleTransfer">
-شیوه‌ی انتقال سبک عصبی زیر است:
+شیوه‌ی انتقال سبک عصبی زیر است
 </a>
-</div>
-```
-@inproceedings{li2018learning,
-    author = {Li, Xueting and Liu, Sifei and Kautz, Jan and Yang, Ming-Hsuan},
-    title = {Learning Linear Transformations for Fast Arbitrary Style Transfer},
-    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
-    year = {2019}}
-```
-<div dir="rtl">
  که تصویر روباه سطر اول به عنوان تصویر محتوا و تصویر سطر مربوطه در ستون (ب) به عنوان تصویر استایل درنظر گرفته شده بوده‌اند.
 نمونه‌هایی متاثر از استایل‌های دیگر را می‌توانید در 
 <a href="https://github.com/mamintoosi/MMM-Artistic-photoes">
@@ -30,7 +21,16 @@
  ملاحظه فرمایید.
  </td></tr>
 </table>
+</div>
 
+```
+@inproceedings{li2018learning,
+    author = {Li, Xueting and Liu, Sifei and Kautz, Jan and Yang, Ming-Hsuan},
+    title = {Learning Linear Transformations for Fast Arbitrary Style Transfer},
+    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
+    year = {2019}}
+```
+<div dir="rtl">
 
 ### تبدیل تصاویر روز به تصاویر شب
 
