@@ -35,6 +35,7 @@
 ### تبدیل تصاویر روز به تصاویر شب
 
 با استفاده از روش انتقال سبک عصبی زیر، ۸۵ تصویر روز به شب تبدیل شدند:
+</div>
 ```
 @inproceedings{jiang2020tsit,
   title={{TSIT}: A Simple and Versatile Framework for Image-to-Image Translation},
@@ -42,6 +43,7 @@
   booktitle={ECCV},
   year={2020}}
 ```
+<div dir="rtl">
 نمونه تصاویری از صحنه‌های روز که به شب تبدیل شده‌اند:
 <table  align="center" border="1">
 <tr><td>تصــــویر حاصل از انتقــــال سبـــک </td><td> تصــــــــویــــــــــــر استــــــــــــایـــــل </td><td>تصــــــــــویـــــر محــــتـــوای ورودی</td></tr>
@@ -58,9 +60,9 @@
 
 
 
-### بخشی از نتایج
+### بخشی از نتایج شناسایی با دو مدل پایه و پیشنهادی
 <table  align="center" border="1">
-<tr><td> روش پایه </td><td> روش پیشنهادی </td></tr>
+<tr><td> مدل پایه </td><td> مدل پیشنهادی مبتنی بر تبدیل روز به شب </td></tr>
 <tr><td><img src= "./images/results_fire-dataset-outdoor/img (19).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (19).jpg" width="300"></td></tr>
 <tr><td><img src= "./images/results_fire-dataset-outdoor/img (21).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (21).jpg" width="300"></td></tr>
 <tr><td><img src= "./images/results_fire-dataset-outdoor/img (24).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (24).jpg" width="300"></td></tr>
