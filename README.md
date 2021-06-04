@@ -29,7 +29,7 @@
 <tr><td>تصــــویر حاصل از انتقــــال سبـــک </td><td> تصــــــــویــــــــــــر استــــــــــــایـــــل </td><td>تصــــــــــویـــــر محــــتـــوای ورودی</td></tr>
 </table>
 <table  align="center" border="1">
-<tr><td> <img src="images/day2night/img (85).jpg" width="600"> </td></tr>
+<tr><td> <img src="images/day2night/img (67).jpg" width="600"> </td></tr>
 <tr><td> <img src="images/day2night/pic (110).jpg" width="600"> </td></tr>
 </table>
 سایر تصاویر  را می‌توانید در 
