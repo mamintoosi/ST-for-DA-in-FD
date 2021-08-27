@@ -17,10 +17,9 @@ https://colab.research.google.com/github/mamintoosi/ST-for-DA-in-FD/blob/master/
 
 <div dir="rtl">
 توضیحات مختصر مربوط به آموزش مدل یا استفاده از مدل‌های از قبل آموزش داده شده در برنامه فوق درج شده است.
-</div>
 
 ### اعمال انتقال سبک یک تصویر بر روی تصویر دیگر:
-شکل ۲ مقاله:
+شکل ۱ مقاله:
 <table  align="center" border="1">
 <tr><td> <img src="images/fox.jpg" width="500"> </td><td> سطر اول: تصویر روباه، به عنوان تصویر محتوا. در سطرهای بعد، ستون (الف) نتیجه اعمال 
 <a href="https://github.com/sunshineatnoon/LinearStyleTransfer">
