@@ -79,7 +79,9 @@ https://colab.research.google.com/github/mamintoosi/ST-for-DA-in-FD/blob/master/
 https://colab.research.google.com/github/mamintoosi-papers-codes/TSIT/blob/master/day2night_fire.ipynb
 
 <div dir="rtl">
+
 ### بخشی از نتایج شناسایی با دو مدل Aug-Scale و Aug-D2N-Scale
+
 <table  align="center" border="1">
 <tr><td> مدل Aug-Scale: داده‌افزایی با تغییراندازه و برش تصویر </td><td> مدل پیشنهادی Aug-D2N-Scale: داده‌افزایی با تبدیل روز به شب و تغییراندازه و برش تصویر  </td></tr>
 <tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (1).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n_aug-scale/img (1).jpg" width="300"></td></tr>
