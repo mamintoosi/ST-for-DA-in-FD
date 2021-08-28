@@ -72,24 +72,21 @@ https://colab.research.google.com/github/mamintoosi/ST-for-DA-in-FD/blob/master/
  ملاحظه فرمایید.
 
 
-## توجه: موارد زیر مربوط به نسخه‌ی اولیه‌ی مقاله هستند. برای نتایج مرتبط با نسخه‌ی بازنگری شده‌ی مقاله، متن مقاله ملاحظه شود یا برنامه بالا اجرا شود.
-
-
 ### بخشی از نتایج شناسایی با دو مدل پایه و پیشنهادی
 <table  align="center" border="1">
-<tr><td> مدل پایه </td><td> مدل پیشنهادی مبتنی بر تبدیل روز به شب </td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/img (19).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (19).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/img (21).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (21).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/img (24).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (24).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/img (27).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (27).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/img (3).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (3).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/img (5).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (5).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/img (8).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/img (8).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/pic (10).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/pic (10).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/pic (13).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/pic (13).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/pic (16).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/pic (16).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/pic (19).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/pic (19).jpg" width="300"></td></tr>
-<tr><td><img src= "./images/results_fire-dataset-outdoor/pic (21).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor-d2n/pic (21).jpg" width="300"></td></tr>
+<tr><td> مدل Aug-Scale: داده‌افزایی با تغییراندازه و برش تصویر </td><td> مدل پیشنهادی Aug-D2N-Scale: داده‌آفزایی با تبدیل روز به شب و تغییراندازه و برش تصویر  </td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (19).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/img (19).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (21).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/img (21).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (24).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/img (24).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (27).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/img (27).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (3).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/img (3).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (5).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/img (5).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/img (8).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/img (8).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/pic (10).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/pic (10).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/pic (13).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/pic (13).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/pic (16).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/pic (16).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/pic (19).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/pic (19).jpg" width="300"></td></tr>
+<tr><td><img src= "./images/results_fire-dataset-outdoor_aug-scale/pic (21).jpg" width="300"></td><td><img src= "./images/results_fire-dataset-outdoor_aug-scale-d2n_aug-scale/pic (21).jpg" width="300"></td></tr>
 </table>
 
 </div>
