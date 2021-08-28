@@ -47,7 +47,7 @@ https://colab.research.google.com/github/mamintoosi/ST-for-DA-in-FD/blob/master/
 ### تبدیل تصاویر روز به تصاویر شب
 
 با استفاده از 
-<a href="https://github.com/mamintoosi/TSIT">
+<a href="https://github.com/mamintoosi-papers-codes/TSIT">
 روش انتقال سبک عصبی زیر
 </a>، ۸۵ تصویر روز به شب تبدیل شدند:
 </div>
