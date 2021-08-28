@@ -77,6 +77,7 @@ https://colab.research.google.com/github/mamintoosi/ST-for-DA-in-FD/blob/master/
 برنامه‌ی مربوطه را می‌توانید از آدرس زیر اجرا کنید:
 </div>
 https://colab.research.google.com/github/mamintoosi-papers-codes/TSIT/blob/master/day2night_fire.ipynb
+
 <div dir="rtl">
 ### بخشی از نتایج شناسایی با دو مدل Aug-Scale و Aug-D2N-Scale
 <table  align="center" border="1">
